@@ -1,10 +1,11 @@
+import menu
+
 def main():
     """Pone en marcha el programa"""
-    # TODO: Mostrar menú
-    pass
+    menu.nav()
+   
 
-
-if __name__ "__main__":
+if __name__ == "__main__":
     main()
 
 
